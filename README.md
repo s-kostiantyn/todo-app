@@ -11,7 +11,7 @@ Todo App is a task management tool that allows users to efficiently manage their
 - SASS/SCSS
   
 ### 🔗 Link to view
-[DEMO LINK](https://k-shestakov.github.io/todo-app/)
+[DEMO LINK](https://s-kostiantyn.github.io/todo-app/)
 
 ## How to run the project locally
 1. **Get the initial code**
